@@ -1,6 +1,6 @@
 # Proxy Changer V2
 
-![App Screenshot](V1.jpg?raw=true "Application 
+![App Screenshot](V2.jpg?raw=true "Application")
 
 *Currently appears to be broken on Windows 10/ in 2020 - code is distributed here for interest's sake*
 
@@ -15,7 +15,7 @@ For Quick installation use "Proxy_Changer_V2_setup.exe"
 
 # History
 
-![Original App](V1.jpg?raw=true "Original Application when used in a School")
+![Original App](V1.JPG?raw=true "Original Application when used in a School")
 
 This project was created in 2010 to allow people to easily configure their Proxy Settings from the System Tray. In one environment, users would take their laptops home and have to disable the Proxy in order to connect to the VPN.
 
